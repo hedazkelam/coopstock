@@ -1,4 +1,4 @@
-const CACHE_NAME = 'coopstock-pwa-v7.0.23';
+const CACHE_NAME = 'coopstock-pwa-v7.0.24';
 const APP_SHELL = [
   './',
   './index.html',
