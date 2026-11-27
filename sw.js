@@ -1,10 +1,12 @@
-const CACHE_NAME = 'coopstock-pwa-v7.0.26';
+const CACHE_NAME = 'coopstock-pwa-v7.0.28';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
+  './icon-maskable-192.png',
+  './icon-maskable-512.png',
   './icon-monochrome-192.png',
   './icon-monochrome-512.png',
   './icon-monochrome.svg',
